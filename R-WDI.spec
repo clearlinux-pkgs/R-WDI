@@ -4,7 +4,7 @@
 #
 Name     : R-WDI
 Version  : 2.6.0
-Release  : 10
+Release  : 11
 URL      : https://cran.r-project.org/src/contrib/WDI_2.6.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/WDI_2.6.0.tar.gz
 Summary  : World Development Indicators (World Bank)
@@ -24,10 +24,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1552804089
+export SOURCE_DATE_EPOCH=1552919583
 
 %install
-export SOURCE_DATE_EPOCH=1552804089
+export SOURCE_DATE_EPOCH=1552919583
 rm -rf %{buildroot}
 export LANG=C
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
