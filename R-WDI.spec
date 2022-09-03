@@ -4,7 +4,7 @@
 #
 Name     : R-WDI
 Version  : 2.7.7
-Release  : 43
+Release  : 44
 URL      : https://cran.r-project.org/src/contrib/WDI_2.7.7.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/WDI_2.7.7.tar.gz
 Summary  : World Development Indicators and Other World Bank Data
